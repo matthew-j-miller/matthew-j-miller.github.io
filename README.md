@@ -1,7 +1,7 @@
-###Matt's Website
+### Matt's Website
 
 
-##Writing Assignment 1:
+## Writing Assignment 1:
 What Software Engineering Means to Me
 
 Words will go here. 
