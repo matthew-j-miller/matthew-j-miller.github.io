@@ -1,5 +1,13 @@
 ### Matt's Website
 
+##Writing Assignment 2:
+Why are you taking this class?
+
+In all honesty, the primary reason I'm taking this class is to complete my minor and because I thought, correctly, that it would be a 
+challenging course. I also am taking it because I wanted to really see how the programming of complex pieces of software takes place. I 
+don't really have plans to go into computer science beyond this class, but I want to at least be able to understand how the magic happens. 
+After the completion of this course, I really just want to have a fundamental understanding of how software is created, operates, and 
+interacts with other pieces of code.
 
 ## Writing Assignment 1:
 What Software Engineering Means to Me
