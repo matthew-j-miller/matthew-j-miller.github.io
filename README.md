@@ -1,4 +1,21 @@
 ### Matt's Website
+
+## Homework 4
+
+This chapter of the Pragmatic Programmer is titled "A Pragmatic Approach." Instead of focusing on the large overarching themes of 
+software engineering, this chapter focuses on a few specific rules to define how code should be designed and developed. The chapter 
+begins by introducing the importance of preventing duplication and ensuring that one's program's are "orthogonal." Preventing 
+duplication is vital to clean code, as when code needs to be maintained, it can be harder to to so if you have to comb through all 
+existing code to find variants of one variable. Orthogonality refers to keeping code from being to interdependent. When code becomes to 
+interdependent, serious problems arise when modifications have to be made. Blocks of code need to be well-organized, well-named, and 
+limited in scope so that changes to one part of the code do not negatively impact other parts of the software. The chapter then talks 
+about reversability, and how to prevent code from being made obselete by changing conditions. 
+
+The most important topic in this chapter, to me, was the concept of Tracer Bulllets. In that section, the author pointed out how 
+projects can get slowed in the process of determining every single problem they expect to encounter, and wasting time building prototype 
+after protoypes when they could be implementing actual solutions. This style of development really appealed to me, in how it allowed 
+both the fleshing out of concepts, and the creation of useful code at the same time. 
+
 ## Homework 3
 
 This chapter can be boiled down to a few key concepts: first, be a responsible programmer by owning up to mistakes, maintaining code 
