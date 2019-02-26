@@ -1,5 +1,17 @@
 ### Matt's Website
 
+## Homework 6
+
+The basis of this chapter was the concept of design by contract. Essentially, the goal of this method of programming is to make each 
+component work in a way that delivers exactly what is supposed to, nothing more and nothing less. In order to do this successfully, the 
+author promotes "lazy" coding. It is far easier to deliver on a small promise than a large one, and it is far easier for errors to occur 
+when code is not kept small and precise. Another aspect of this chapter was it's focus on preventing "it can't happen" mentality. While 
+everyone wants to believe the code they write is prepared for all situation that it will be used, the reality is that it will 
+ineveitably be used in ways that the creator cannot predict. Therefore, it is the responsibility of the software engineer to code 
+"defensively" and prepare it for as many scenarios as reasonable and possible. Finally, this chapter strongly suggests leaving 
+assertions turned on. While they do add some overhead to code, and are primarilly used in the debugging phase, leaving them turned on 
+makes it fars easier to identify problems, even after a product has reached production.  
+
 ## Homework 4
 
 This chapter of the Pragmatic Programmer is titled "A Pragmatic Approach." Instead of focusing on the large overarching themes of 
