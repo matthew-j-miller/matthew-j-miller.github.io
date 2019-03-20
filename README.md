@@ -1,5 +1,10 @@
 ### Matt's Website
 
+
+## Homework 7
+
+This chapter spoke to me with regards to it's final section regarding procrastination vs working when ready. I have fallen behind on homeworks in part due to computer issues, but also due to not being proactive enough in solving them and taking intiative when they were resolved. I'm working to catch up now, but had I done so earlier, I wouldn't be as behind as I now am. My major takeaway is that this level of work paralysis cannot occur when it comes to the final project. This chapter also touches on another source of work paralysis: the requirements pit. A requirements pit can occur when code is written that is too speciifc, whenever a developer doesn't consider what problems may occur in the future, or when the project constantly grows larger and larger as more requirements pile on. The documentation of requirements and maintaining communication between developers, end users, and sponsors are vital to preventing the stalling of a project. 
+
 ## Homework 6
 
 The basis of this chapter was the concept of design by contract. Essentially, the goal of this method of programming is to make each 
